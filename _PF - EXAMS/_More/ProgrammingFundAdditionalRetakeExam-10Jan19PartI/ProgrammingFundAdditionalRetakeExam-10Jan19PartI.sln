@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01.SantasCookies", "T01.SantasCookies\T01.SantasCookies.csproj", "{43E78821-35ED-4BB2-BB7B-3CF4CBFF922D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02.SantasGifts", "T02.SantasGifts\T02.SantasGifts.csproj", "{A8362465-D921-47B1-BE35-E7E653386F04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43E78821-35ED-4BB2-BB7B-3CF4CBFF922D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E78821-35ED-4BB2-BB7B-3CF4CBFF922D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E78821-35ED-4BB2-BB7B-3CF4CBFF922D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E78821-35ED-4BB2-BB7B-3CF4CBFF922D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8362465-D921-47B1-BE35-E7E653386F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8362465-D921-47B1-BE35-E7E653386F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8362465-D921-47B1-BE35-E7E653386F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8362465-D921-47B1-BE35-E7E653386F04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C4283D8-CEE2-4384-A869-3FEB877F9F74}
+	EndGlobalSection
+EndGlobal

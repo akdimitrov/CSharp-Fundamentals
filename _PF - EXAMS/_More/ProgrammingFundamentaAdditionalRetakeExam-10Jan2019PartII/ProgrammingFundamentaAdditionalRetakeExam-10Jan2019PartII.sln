@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03.SantasSecretHelper", "T03.SantasSecretHelper\T03.SantasSecretHelper.csproj", "{10A57F6C-3F70-459A-936F-1C1839AC422E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04.SNL", "T04.SNL\T04.SNL.csproj", "{7B3F4A0D-7241-453C-A38B-22C3F8B2B59C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A57F6C-3F70-459A-936F-1C1839AC422E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A57F6C-3F70-459A-936F-1C1839AC422E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A57F6C-3F70-459A-936F-1C1839AC422E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A57F6C-3F70-459A-936F-1C1839AC422E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B3F4A0D-7241-453C-A38B-22C3F8B2B59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3F4A0D-7241-453C-A38B-22C3F8B2B59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3F4A0D-7241-453C-A38B-22C3F8B2B59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3F4A0D-7241-453C-A38B-22C3F8B2B59C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54815E5E-0EA5-49C4-95FC-E718A4644975}
+	EndGlobalSection
+EndGlobal
