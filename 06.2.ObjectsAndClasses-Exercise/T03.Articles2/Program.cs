@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace T03.Articles2
 {
@@ -42,12 +41,6 @@ namespace T03.Articles2
             }
 
             string input = Console.ReadLine();
-            switch (input)
-            {
-                case "title": articles = articles.OrderBy(x => x.Title).ToList(); break;
-                case "content": articles = articles.OrderBy(x => x.Content).ToList(); break;
-                case "author": articles = articles.OrderBy(x => x.Author).ToList(); break;
-            }
             Console.WriteLine(string.Join(Environment.NewLine, articles));
         }
     }
