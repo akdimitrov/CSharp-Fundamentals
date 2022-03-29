@@ -1,2 +1,2 @@
 # CSharp-Fundamentals
-C# Fundamentals Module - SoftUni Problems
+C# Fundamentals Module - SoftUni Problem Solutions
